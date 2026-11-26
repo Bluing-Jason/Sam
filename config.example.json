@@ -1,0 +1,13 @@
+{
+  "devices": [],
+  "globalSettings": {
+    "pollInterval": 3000,
+    "timeout": 2500,
+    "historyRange": "1h",
+    "logIntervalMin": 30,
+    "brandName": "SOLAR · MULTI",
+    "brandSub": "multi-station monitor",
+    "brandLogo": null,
+    "brandMark": "TY"
+  }
+}

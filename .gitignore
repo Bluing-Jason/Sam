@@ -1,0 +1,27 @@
+# Runtime configuration and private data
+.env
+.env.*
+!.env.example
+config.json
+email_config.json
+pv_accum.json
+data/
+*.csv
+*.bak
+*.tmp
+*.log
+*.zip
+*.tar
+*.tar.gz
+*.key
+*.pem
+# Local Python / editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

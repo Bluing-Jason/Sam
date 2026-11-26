@@ -1,0 +1,19 @@
+{
+  "enabled": false,
+  "smtp_host": "smtp.example.com",
+  "smtp_port": 587,
+  "smtp_user": "",
+  "smtp_pass": "",
+  "from_email": "",
+  "from_name": "Solar Monitor",
+  "company_name": "Solar Monitor",
+  "recipients": [],
+  "cooldown_minutes": 60,
+  "use_tls": true,
+  "alert_email_enabled": true,
+  "daily_report_enabled": false,
+  "daily_report_times": [
+    "09:00"
+  ],
+  "daily_report_send_ok": false
+}
